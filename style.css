@@ -1,0 +1,73 @@
+/* ▼ WHERE YOUR CODE BEGINS */
+
+/* .container h1 {
+  font-weight: 300;
+  font-size: 34px;
+  line-height: 1.41;
+  letter-spacing: -0.015em;
+  margin-bottom: 48px;
+  color: #1f2d3d;
+}
+
+.container h3 {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.015em;
+  margin-bottom: 8px;
+}
+
+.container p {
+  line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 32px;
+}
+
+.container p span {
+  color: #ff5216;
+}
+
+.container p em {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.container h2 {
+  font-size: 28px;
+  line-height: 1.43;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.container strong {
+  font-weight: 700;
+} */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: 48px;
+}
+
+h3 {
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 32px;
+}
+
+h2 {
+  margin-bottom: 24px;
+}
+
+.container {
+  widht: 100%;
+  max-width: 736px;
+  margin: 0 auto;
+  padding: 48px;
+}
